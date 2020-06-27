@@ -1,0 +1,7 @@
+{
+    "MISSING_AMOUNT": "Vous devez indiquer le nombre d'invitations bonus que vous souhaitez enlever. (Syntaxe : {{prefix}}}removebonus nombre @membre)",
+    "INVALID_AMOUNT": "Vous devez écrire un nombre __**valide**__ d'invitations bonus que vous souhaitez supprimer. (Syntaxe : {{prefix}}removebonus nombre @membre)",
+    "MISSING_MEMBER": "Vous devez mentionner le membre auquel vous voulez retirer les invitations bonus. (Syntaxe : {{prefix}}removebonus nombre @membre)",
+    "SUCCESS_TITLE": "📥 Invitations Bonus Enlevées",
+    "SUCCESS_CONTENT": "Envoyez `{{prefix}}invites {{usertag}}` pour voir le nouveau nombre d'invitations de **{{username}}** !"
+}
