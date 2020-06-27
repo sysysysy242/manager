@@ -41,9 +41,8 @@
   "bugs": {
     "url": "https://github.com/Androz2091/manage-invite/issues"
   },
-{ "engines" : {
+"engines" : {
   "node" : "14.4.0"
-}
 }
   "homepage": "https://github.com/Androz2091/manage-invite#readme"
 }
